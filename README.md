@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meetiosdev
+- 👋 Hi, My name is Meet Mali
 - 👀 I’m interested in building IOS Apps
 - 🌱 I’m currently learning Swift, ML & AR
 - 💞️ I’m looking to collaborate on making IOS Projects
